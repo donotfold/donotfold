@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey hey! 🤟
+
+I'm a creative Front-end Developer, rock/concert/portrait photographer and passionate about graphic design, fashion, typography and music.
+
+[donotfold.be](https://www.donotfold.be)
 
 <!--
 **donotfold/donotfold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
